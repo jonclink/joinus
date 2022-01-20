@@ -46,7 +46,7 @@ To summarize, here are the basic requirements, but as mentioned, you can be more
 
 You are not required to complete or add all of the changes. However, we will partly be assessing you based on how much you have completed and how you answer questions related to your work.
 
-Instructions for running the app can be found in the respective folders: [ui](ui) and [api](api).
+Instructions for running the app can be found in the respective folders: [ui](src/ui) and [api](src/api).
 
 If you have any questions about the exercise, don't hesitate to reply back to the initial instructions email.
 
